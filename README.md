@@ -6,7 +6,8 @@
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sajjalf23&theme=tokyo-night)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sajjalf23&layout=compact&theme=radical)
+![Metrics](https://raw.githubusercontent.com/sajjalf23/sajjalf23/main/github-metrics.svg)
+
 
 
 -----------
