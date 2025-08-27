@@ -21,8 +21,6 @@
 ## 🌱 Currently Learning  
 - Web Application Development  
 
----
-
 ## 📫 How to Reach Me  
 📧 Email: **rsak3232@gmail.com**
 
@@ -52,17 +50,20 @@
 
 ## 📊 GitHub Stats  
 
+## 📊 GitHub Stats  
+
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=codewithsami1234&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
+ <img src="https://github-readme-stats.vercel.app/api?username=codewithsami1234&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=codewithsami1234&theme=default&hide_border=true" alt="GitHub Streak" />
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=codewithsami1234&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithsami1234&layout=compact&theme=default&hide_border=true&langs_count=10&card_width=445" alt="Most Used Languages" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithsami1234&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&card_width=445" alt="Most Used Languages" />
 </p>
+
 
 ---
 
