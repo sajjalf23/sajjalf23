@@ -6,7 +6,6 @@
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sajjalf23&theme=tokyo-night)
 
-![Metrics](https://raw.githubusercontent.com/sajjalf23/sajjalf23/main/github-metrics.svg)
 
 
 
