@@ -7,7 +7,15 @@
 <!--  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sajjalf23&theme=tokyo-night)  -->
 
 -----------
-![Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sajjalf23&theme=tokyonight)
-![Repo Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sajjalf23&theme=tokyonight)
+## 🚀 Languages I Use  
 
+<p align="center">
+  <!-- Compact layout -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajjalf23&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180px"/>
+</p>
+
+<p align="center">
+  <!-- Normal layout -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajjalf23&theme=tokyonight&hide_border=true&langs_count=8" height="180px"/>
+</p>
 
