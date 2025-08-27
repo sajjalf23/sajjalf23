@@ -6,4 +6,6 @@
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sajjalf23&theme=tokyo-night)
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sajjalf23&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+
 -----------
