@@ -13,10 +13,7 @@
 --- -->
 
 # Hi 👋, I'm Rahma Shahbaz  
-
 🎓 A passionate **Information Technology Student** from Pakistan  
-
----
 
 ## 🌱 Currently Learning  
 - Web Application Development  
@@ -50,8 +47,6 @@
 
 ## 📊 GitHub Stats  
 
-## 📊 GitHub Stats  
-
 <p align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=codewithsami1234&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
@@ -63,7 +58,6 @@
 <p align="center">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithsami1234&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&card_width=445" alt="Most Used Languages" />
 </p>
-
 
 ---
 
