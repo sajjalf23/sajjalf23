@@ -13,13 +13,9 @@
 --- -->
 
 # Hi 👋, I'm Rahma Shahbaz  
-🎓 A passionate **Information Technology Student** from Pakistan  
-           
-🌱 Currently Learning  
-           - Web Application Development  - DSA
-
-📫 How to Reach Me  
-           📧 Email: **rsak3232@gmail.com**
+🎓 A passionate **Information Technology Student** from Pakistan            
+🌱 I am currently learning Web Application Development
+📫 How to Reach Me  📧 Email: **rsak3232@gmail.com**
 
 ---
 
