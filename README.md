@@ -5,8 +5,5 @@
 </p>
 
 ---
-## 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=sajjalf23&cache_seconds=86400" />
 
 
