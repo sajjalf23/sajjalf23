@@ -7,5 +7,6 @@
 ---
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sajjalf23&cache_seconds=86400)
+<img src="https://github-readme-stats.vercel.app/api?username=sajjalf23&cache_seconds=86400" />
+
 
