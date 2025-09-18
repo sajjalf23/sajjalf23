@@ -5,3 +5,7 @@
 </p>
 
 ---
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sajjalf23&cache_seconds=86400)
+
