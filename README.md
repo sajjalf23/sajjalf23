@@ -1,7 +1,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajjalf23&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&card_width=445" alt="Top Languages Compact" />
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sajjalf23&cache_seconds=86400)
 </p>
 
 ---
