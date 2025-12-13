@@ -5,6 +5,7 @@
   
   <img src="https://github-readme-stats.vercel.app/api?username=sajjalf23&show_icons=true&theme=tokyonight&hide_border=true" width="45%" />
 </div>
+https://github-readme-stats.vercel.app/api/top-langs/?username=sajjalf23&layout=compact&theme=tokyonight&hide=Jupyter%20Notebook
 
 
 ---
