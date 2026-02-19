@@ -11,17 +11,5 @@
 ---
 
 
-### 📊 실시간 트래킹 코딩타임: (22.10.01.부터 기록 중)
-
-### [📊 WakaTime 코딩 타임 (최근 7일간 통계)](https://github.com/marketplace/actions/wakatime-svg)
-
-![WakaTime Languages](https://raw.githubusercontent.com/sajjalf23/wakatime-svg/output/generated/languages.svg)
-![WakaTime Projects](https://raw.githubusercontent.com/AndrewDongminYoo/wakatime-svg/output/generated/projects.svg)
-
-### [📊 깃허브 컨트리뷰션 통계](https://github.com/AndrewDongminYoo/github-stats-transparent)
-
-![ ](https://raw.githubusercontent.com/AndrewDongminYoo/github-stats-transparent/refs/heads/output/generated/overview.svg)
-![ ](https://raw.githubusercontent.com/AndrewDongminYoo/github-stats-transparent/refs/heads/output/generated/languages.svg)
-
 
 
