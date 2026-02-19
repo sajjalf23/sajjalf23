@@ -19,9 +19,8 @@
 </p>
    -->
 
---- -->
 
-
+ <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=sajjalf23&show_icons=true&theme=tokyonight&hide_border=true" width="45%" />
 
 
 
