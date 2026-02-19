@@ -5,7 +5,6 @@
   
   <img src="https://github-readme-stats.vercel.app/api?username=sajjalf23&show_icons=true&theme=tokyonight&hide_border=true" width="45%" />
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sajjalf23&layout=donut)](https://github.com/sajjalf23/github-readme-stats)
 </div>
 
 
