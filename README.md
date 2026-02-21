@@ -20,7 +20,7 @@
    -->
 
 <div style="display: flex; gap: 20px; flex-wrap: wrap;">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sajjalf23&theme=tokyonight&langs_count=12&card_width=455"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sajjalf23&layout=compact&theme=tokyonight&langs_count=12&card_width=450&hide_border=true"/>
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=sajjalf23&show_icons=true&theme=tokyonight&hide_border=true" width="45%" />
 
 </div>
