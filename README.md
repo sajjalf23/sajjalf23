@@ -3,7 +3,6 @@
   <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sajjalf23&show_icons=true&theme=tokyonight&hide_border=true" width="45%" /> 
 
 <p align="center">
-  <!-- Dark Mode Images -->
   <a href="https://github.com/sajjalf23/github-stats">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sajjalf23/github-stats/output/overview.svg">
