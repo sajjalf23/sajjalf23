@@ -9,6 +9,21 @@
 <img src="https://github.com/sajjalf23/github-stats/blob/generated/languages.svg#gh-light-mode-only" />
 </a>
 </div>
+<p align="center">
+  <!-- Dark Mode Images -->
+  <a href="https://github.com/sajjalf23/github-stats">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sajjalf23/github-stats/output/overview.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sajjalf23/github-stats/output/overview.svg">
+      <img src="https://raw.githubusercontent.com/sajjalf23/github-stats/output/overview.svg" />
+    </picture>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sajjalf23/github-stats/output/languages.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sajjalf23/github-stats/output/languages.svg">
+      <img src="https://raw.githubusercontent.com/sajjalf23/github-stats/output/languages.svg" />
+    </picture>
+  </a>
+</p>
 
 
 ```markdown
