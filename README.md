@@ -1,4 +1,10 @@
-![](./profile-3d-contrib/profile-green-animate.svg)
+<p align="center" >
+	<picture>
+	  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/<github_user>/<repository>/output-3d-contrib/night.svg" />
+	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/<github_user>/<repository>/output-3d-contrib/day.svg" />
+	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/<sajjalf23>/<repository>/output-3d-contrib/day.svg" />
+	</picture>
+</p>
 
 <!-- <div style="display: flex; gap: 20px; flex-wrap: wrap;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajjalf23&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&card_width=445" alt="Most Used Languages" />
