@@ -23,8 +23,7 @@
 
 ```
 <p align="center">
-  <img height="180px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sajjalf23&layout=compact&theme=tokyonight&langs_count=12&card_width=445&hide_border=true" />
-  <img height="180px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sajjalf23&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajjalf23&layout=compact&theme=tokyonight&langs_count=12&card_width=445&hide_border=true" />
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=sajjalf23&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
-
 
