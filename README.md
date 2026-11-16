@@ -22,17 +22,6 @@
 
 ```
 
-<!-- GitHub Stats -->
-
-<p align="center">   <img src="https://github-readme-stats.vercel.app/api?username=sajjalf23&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajjalf23&layout=compact&theme=tokyonight&hide_border=true" width="48%" /> </p> 
-
-<div style="display: flex; gap: 20px; flex-wrap: wrap;">
-  
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sajjalf23&layout=compact&theme=tokyonight&langs_count=12&card_width=445&hide_border=true"/>
-  
-  <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sajjalf23&show_icons=true&theme=tokyonight&hide_border=true" width="45%" />
-  
-
 <!-- GitHub Streak -->
 
 <p align="center">   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sajjalf23&theme=tokyonight&hide_border=true" width="48%" /> </p>
