@@ -21,39 +21,6 @@
 ▀▀▀▀▀▀▀▀▀▀▀▀▀-     ▀▀▀▀▀▀▀▀▀▀       '╧╧╧╧╧╧╧╧╧`     ╚ ╧╧╧- ▀  ╚═╝     ╚═╝╚══════╝╚══════╝   ╚═╝        ╚═╝    ╚═════╝  ╚═════╝
 
 ```
-
-<!-- GitHub Streak -->
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=sajjalf23&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
 
-
-
-
-
-\<!-- GitHub Stats -->
-
-## My Skills
-
-\<img src="[https://github-readme-stats.vercel.app/api/top-langs?username=sajjalf23&layout=compact&card_width=275&theme=tokyonight&langs_count=10&hide=c,meson,makefile,m4](https://github-readme-stats.vercel.app/api/top-langs?username=sajjalf23\&layout=compact\&card_width=275\&theme=tokyonight\&langs_count=10\&hide=c,meson,makefile,m4)" alt="Sajjal's Top Languages" align="right" width="295">
-
-\<!-- GitHub Streak -->
-
-\<p align="center">   \<img src="[https://streak-stats.demolab.com?user=sajjalf23&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com?user=sajjalf23\&theme=tokyonight\&hide_border=true)" width="48%" /> \</p>
-
-\<!-- GitHub Activity -->
-
-\<!--START_SECTION\:activity-->
-
-\<!--END_SECTION\:activity-->
-
-\<!-- Contribution Snake -->
-
-\<p align="center">
-&#x20; \<img src="[https://raw.githubusercontent.com/sajjalf23/sajjalf23/output/github-contribution-grid-snake-dark.svg](https://raw.githubusercontent.com/sajjalf23/sajjalf23/output/github-contribution-grid-snake-dark.svg)" width="80%" />
-\</p>
