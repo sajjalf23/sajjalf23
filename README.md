@@ -23,4 +23,5 @@
 ```
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=sajjalf23&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=sajjalf23&theme=tokyonight&hide_border=true&layout=compact" width="48%" />
 </p>
