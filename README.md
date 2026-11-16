@@ -23,6 +23,24 @@
 
 ```
 
+<div align="center">
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sajjalf23&theme=tokyonight" width="100%" />
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sajjalf23&theme=tokyonight&utcOffset=5" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sajjalf23&theme=tokyonight" width="49%" />
+
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=sajjalf23&theme=tokyonight&hide_border=true" width="70%" />
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/sajjalf23/sajjalf23/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</div>
+
+
 
 <!-- <div style="display: flex; gap: 20px; flex-wrap: wrap;">
   
