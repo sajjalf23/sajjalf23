@@ -24,5 +24,9 @@
 
 <!-- GitHub Streak -->
 
-<p align="center">   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sajjalf23&theme=tokyonight&hide_border=true" width="48%" /> </p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sajjalf23&theme=tokyonight&hide_border=true" width="48%" />
+</p>
 
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
