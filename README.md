@@ -26,6 +26,3 @@
 
 <p align="center">   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sajjalf23&theme=tokyonight&hide_border=true" width="48%" /> </p>
 
-<!-- Contribution Snake -->
-
-<p align="center">   <img src="https://raw.githubusercontent.com/sajjalf23/sajjalf23/output/github-contribution-grid-snake-dark.svg" width="80%" /> </p>
