@@ -25,3 +25,6 @@
   <img src="https://streak-stats.demolab.com?user=sajjalf23&theme=tokyonight&hide_border=true" width="48%" />
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=sajjalf23&theme=tokyonight&hide_border=true&layout=compact&langs_count=10&size_weight=1&count_weight=0" width="48%" />
 </p>
+
+<img src="https://github-stats-extended.vercel.app/api?username=sajjalf23&theme=tokyonight&hide_border=true&show_icons=true" width="48%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sajjalf23&theme=tokyo-night&hide_border=true" width="98%" />
