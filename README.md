@@ -21,6 +21,12 @@
 ▀▀▀▀▀▀▀▀▀▀▀▀▀-     ▀▀▀▀▀▀▀▀▀▀       '╧╧╧╧╧╧╧╧╧`     ╚ ╧╧╧- ▀  ╚═╝     ╚═╝╚══════╝╚══════╝   ╚═╝        ╚═╝    ╚═════╝  ╚═════╝
 
 ```
+<p> 
+  <h3>
+  HEY THIS IS SAJJAL FATIMA.
+  Interests : I have worked on machine learning models using voice and video data. I have done inferenece of various AIML models. I am interested in doing opensource contributions in edge devices based AIML models.
+    </h3>
+</p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=sajjalf23&theme=tokyonight&hide_border=true" width="48%" />
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=sajjalf23&theme=tokyonight&hide_border=true&layout=compact&langs_count=10&size_weight=1&count_weight=0" width="48%" />
